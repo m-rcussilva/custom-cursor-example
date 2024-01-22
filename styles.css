@@ -1,0 +1,6 @@
+.container {
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+    cursor: url("images/rec.png"), auto;
+}
